@@ -1,0 +1,7 @@
+{
+  "name": "VITESSE ",
+  "description": "TELUK INTAN SCIENCE SCHOOL STEM RACING TEAM",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
